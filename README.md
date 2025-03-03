@@ -18,8 +18,6 @@ To understand how good it is, I compared it to [Cisco's libsrtp implementation](
 4. **Proper RTCP Support** - RTCP packet processing is incomplete
 5. **Extensions Support** - No implementation for header extensions
 6. **Profiling Support** - Missing performance profiling capabilities
-
-Additionally:
 7. **Thread Safety** - Improvements beyond basic mutex usage
 8. **Hardware Acceleration** - Support for cryptographic operations
 9. **SRTCP Support** - More comprehensive RTCP implementation and SRTCP validation
